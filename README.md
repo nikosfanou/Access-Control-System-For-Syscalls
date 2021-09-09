@@ -52,7 +52,7 @@ is always correct and with valid information.
 
 ## Uploaded Files
 
-- Directory files contains some instruction files. \
+- Directory files contains some instruction files.
 - acs.c and acs.h contain the functionality for the access control system and \
 input_exec.c the code for the executable which will be monitored by the access control system.
 
@@ -60,5 +60,5 @@ input_exec.c the code for the executable which will be monitored by the access c
 
 - Run "make all" to compile the access control system and the test program. \
   There will be generated the acs_exec (access control system) and the input_exec (test program) \
-  which will be given as an input to the access control system. \
+  which will be given as an input to the access control system.
 - Run "./acs_exec input_exec file" to execute the program.
