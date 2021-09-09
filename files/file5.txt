@@ -1,0 +1,5 @@
+mmap2 mmap2 close
+chmod 1
+write 2
+time 1
+execve 1

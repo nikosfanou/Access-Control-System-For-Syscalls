@@ -1,0 +1,8 @@
+open read
+exit 2
+fork 3
+read 1
+write 1
+open 1
+close 1
+waitpid 2    

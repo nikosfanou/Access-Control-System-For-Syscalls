@@ -1,0 +1,9 @@
+
+exit 2
+fork 3
+read 7
+write 3
+open 6
+close 6
+waitpid 2
+mmap2 5
